@@ -1,6 +1,6 @@
 # Ganhei Na Mega
 
-<h1>Aplicativo simples de gerar numeros da Maga Sena</h1>
+<h1>Aplicativo simples de gerar números da Maga Sena</h1>
 <div align="center">
 <p>Tela inicial:</p>
 
